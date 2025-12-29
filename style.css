@@ -1,0 +1,23 @@
+body {
+    background-color: blueviolet;
+    color: #111;
+    font-family: "Times New Roman", serif;
+    margin: 40px;
+}
+
+h1 {
+    font-size: 46px;
+    letter-spacing: 2px;
+    color: bisque;
+    font-family: "Georgia", serif;
+    text-align: center;
+    border: solid;
+    border-color: snow;
+}
+
+p {
+    color: aquamarine;
+    font-size: 23px;
+    font-family: "Tahoma", sans-serif;
+    text-align: center;
+}
